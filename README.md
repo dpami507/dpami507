@@ -16,6 +16,4 @@
 
 <h2>Links</h2>
 <a href="https://www.linkedin.com/in/dpamidon/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="45" height="45"/></a>
-<a href="https://dpami507.github.io/portfolio/">
-  <img src="https://api.iconify.design/mdi/account-box-outline.svg?color=%23000000" width="45" height="45" alt="Portfolio"/>
-</a>
+<a href="https://dpami507.github.io/portfolio/" target="_blank"><img src="https://api.iconify.design/mdi/account-box-outline.svg?color=%23000000" width="45" height="45" alt="Portfolio"/></a>
