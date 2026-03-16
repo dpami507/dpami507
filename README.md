@@ -1,6 +1,3 @@
-<!--- Variables --->
-[csharp]: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" alt="c#" width="45" height="45"/>
-
 <h2>About Me</h2>
 <p>I'm David Amidon, a Game Programming student at Champlain College, working primarily in C++, C#, and Unity.</p>
 <p>I enjoy building games and figuring out how to make things work the way I want them to. I like the problem-solving side of development and working with others on creative projects.</p>
